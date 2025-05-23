@@ -1,20 +1,13 @@
-## 🌟 Eaindra Htin Kyaw Win 🌟
+<h2 align="center">🌟 Eaindra Htin Kyaw Win 🌟</h2>
 
-✨ Developer | Student | Dreamer ✨
+<p align="center">
+  <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/README/gopher.gif" width="120">
+</p>
 
-🎓 Otemae University - Information & Computer Science  
+<p align="center">
+✨ Developer | Student | Dreamer ✨  
+🎓 Otemae University – Information & Computer Science  
 💻 Currently learning Cloud, Web, and AI  
 🌐 Languages: HTML, CSS, JavaScript, Python  
-🌸 Fun Fact: I play violin & make posters for my orchestra club!
-
----
-
-### 🌱 What I'm working on:
-- Graduation Research: Internet Infrastructure in Japan & Myanmar
-- Voice-controlled lane-running game 🎮
-- Techful programming assignments
-
-### 📫 Connect with me:
-- [GitHub](https://github.com/Eaindra22)
-- [LinkedIn](https://www.linkedin.com/in/enna-eaindra-aba672318/) 
-
+🎻 Fun Fact: I play violin & make posters for my orchestra club!
+</p>
