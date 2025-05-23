@@ -16,5 +16,5 @@
 
 ### 📫 Connect with me:
 - [GitHub](https://github.com/Eaindra22)
-- [LinkedIn](#) *(add your link if available)*
+- [LinkedIn](https://www.linkedin.com/in/enna-eaindra-aba672318/) 
 
