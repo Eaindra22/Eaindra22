@@ -1,16 +1,20 @@
-## Hi there 👋
+## 🌟 Eaindra Htin Kyaw Win 🌟
 
-<!--
-**Eaindra22/Eaindra22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Developer | Student | Dreamer ✨
 
-Here are some ideas to get you started:
+🎓 Otemae University - Information & Computer Science  
+💻 Currently learning Cloud, Web, and AI  
+🌐 Languages: HTML, CSS, JavaScript, Python  
+🌸 Fun Fact: I play violin & make posters for my orchestra club!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 What I'm working on:
+- Graduation Research: Internet Infrastructure in Japan & Myanmar
+- Voice-controlled lane-running game 🎮
+- Techful programming assignments
+
+### 📫 Connect with me:
+- [GitHub](https://github.com/Eaindra22)
+- [LinkedIn](#) *(add your link if available)*
+
