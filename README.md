@@ -1,6 +1,6 @@
 ---
 
-## 🌸 Proudly, a Bunny Coder 🐰
+## 🌸 Proudly, a Bunny Coder エンダラ🐰
 
 <p align="center">
  <img src="https://github.com/Eaindra22/Eaindra22/blob/main/Tuji Bunny.gif?raw=true" width="150">
