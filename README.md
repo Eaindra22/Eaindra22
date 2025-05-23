@@ -26,13 +26,6 @@
 
 ---
 
-### 📊 Tech Stack
-
-```yaml
-Languages: HTML, CSS, JavaScript, Python
-Tools: GitHub, VS Code, Canva, Techful, Unity (basic)
-Currently Learning: Cloud Services, Infrastructure Automation
-
 ### 🌱 What I'm working on:
 - Graduation Research: Internet Infrastructure in Japan & Myanmar
 - Voice-controlled lane-running game 🎮
@@ -40,4 +33,5 @@ Currently Learning: Cloud Services, Infrastructure Automation
 
 ### 📫 Connect with me:
 - [GitHub](https://github.com/Eaindra22)
-- [LinkedIn](https://www.linkedin.com/in/enna-eaindra-aba672318/)
+- [LinkedIn](https://www.linkedin.com/in/enna-eaindra-aba672318/) 
+
