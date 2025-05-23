@@ -3,7 +3,8 @@
 ## 🌸 Proudly, a Bunny Coder 🐰
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EaindraAssets/cdn/main/pinkbunny-cute.png" width="150">
+ <img src="https://github.com/Eaindra22/Eaindra22/blob/main/bunny.png?raw=true" width="150">
+
 </p>
 
 > I code with care, creativity, and cuteness.  
