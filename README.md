@@ -1,3 +1,16 @@
+---
+
+## 🌸 Proudly, a Bunny Coder 🐰
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EaindraAssets/cdn/main/pinkbunny-cute.png" width="150">
+</p>
+
+> I code with care, creativity, and cuteness.  
+> Always learning, always smiling 🌟
+
+---
+
 <h2 align="center">🌟 Eaindra Htin Kyaw Win 🌟</h2>
 
 <p align="center">
